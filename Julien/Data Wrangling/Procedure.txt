@@ -1,0 +1,20 @@
+
+Saturday Morning August 22nd
+
+Data wrangling : 
+
+1. remove no_name column
+2. Add state column
+
+
+
+
+
+
+
+- Drop branded_code_share and mkt_carrier ?
+
+
+
+Convert all time elements to datetime ?
+Convert miles to kilometer ?

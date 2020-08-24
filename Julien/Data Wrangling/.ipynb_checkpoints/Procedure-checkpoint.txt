@@ -1,0 +1,17 @@
+
+Saturday Morning August 22nd
+
+Data wrangling : 
+
+1. remove no_name column
+
+
+
+
+
+
+
+
+Convert all time elements to datetime ?
+Convert miles to kilometer ?
+Add state column ?

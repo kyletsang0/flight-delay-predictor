@@ -1,0 +1,43 @@
+INDUSTRY RESEARCH
+
+Airline finances cyclical crisis
+https://www.mcgill.ca/iasl/files/iasl/ASPL614-Airline-Financial-Woes.pdf
+
+Airline costs
+https://www.mckinsey.com/industries/travel-logistics-and-transport-infrastructure/our-insights/a-better-approach-to-airline-costs#
+
+https://transportgeography.org/?page_id=7287
+
+https://www.airlines.org/data/
+
+Jet Fuel
+https://www.airlines.org/wp-content/uploads/2018/01/jet-fuel-1.pdf
+
+
+
+Goals
+
+Data Exploration and prep. – Saturday – Sunday – Monday. 
+
+Modeling – Tuesday – Wednesday
+
+Presentation preparation – Thursday. 
+
+Data exploration
+	•	10 questions
+
+Modeling
+	•	3 Model
+
+Presentation
+
+	•	Presentation (finding space)
+	•	Simple power point with findings. 
+	•	Code review
+	•	Y_pred. 
+	•	
+
+
+
+
+
